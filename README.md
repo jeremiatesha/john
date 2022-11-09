@@ -1,0 +1,2 @@
+# john
+self wifi
